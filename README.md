@@ -14,3 +14,4 @@ giwonn's Claude Code plugin marketplace.
 |--------|-------------|
 | [claude-daily-review](https://github.com/giwonn/claude-daily-review) | Auto-capture conversations for daily review and career documentation |
 | [codeaware](https://github.com/giwonn/codeaware) | AI comprehensibility analyzer with hidden context detection |
+| [tmux-bridge](https://github.com/giwonn/tmux-bridge) | Remote tmux session management for cmux |
