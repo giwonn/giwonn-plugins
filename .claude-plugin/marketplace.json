@@ -56,6 +56,22 @@
       "repository": "https://github.com/giwonn/tmux-bridge",
       "license": "MIT",
       "tags": ["cmux", "tmux", "ssh", "remote"]
+    },
+    {
+      "name": "using-cmux",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/giwonn/using-cmux.git",
+        "ref": "v0.1.0"
+      },
+      "description": "Control cmux workspaces, panes, and surfaces from Claude Code — with an implementer↔reviewer pane handoff pattern for multi-agent reviews",
+      "author": {
+        "name": "giwonn"
+      },
+      "homepage": "https://github.com/giwonn/using-cmux",
+      "repository": "https://github.com/giwonn/using-cmux",
+      "license": "MIT",
+      "tags": ["cmux", "terminal", "multiplexer", "ai-orchestration", "claude-code"]
     }
   ]
 }
